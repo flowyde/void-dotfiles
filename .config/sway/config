@@ -136,7 +136,6 @@ output * bg /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1920x1080.png fill
 # Layout stuff:
 #
     # Switch the current container between different layout styles
-    bindsym $mod+s layout stacking
     bindsym $mod+e layout toggle split
 
     # Make the current focus fullscreen
